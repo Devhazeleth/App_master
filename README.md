@@ -1,2 +1,29 @@
-# App_master
- This project serves as the central hub for managing and maintaining the fleet of vehicles in the WeGo car-sharing platform. The backend is responsible for handling user requests, vehicle data, reservations, and more. It's a multi-language backend system, incorporating JavaScript, Python, and Java components.
+# README #
+
+This README would normally document whatever steps are necessary to get your application up and running.
+
+### What is this repository for? ###
+
+* Quick summary
+* Version
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
+### How do I get set up? ###
+
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
+* How to run tests
+* Deployment instructions
+
+### Contribution guidelines ###
+
+* Writing tests
+* Code review
+* Other guidelines
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+* Other community or team contact
